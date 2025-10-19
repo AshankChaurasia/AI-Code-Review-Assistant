@@ -1,0 +1,18 @@
+# Ignore environment files and virtual envs
+.env
+.venv/
+venv/
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
